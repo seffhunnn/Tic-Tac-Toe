@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="WelcomeTXT">Welcome to the Game ;)</string>
+    <string name="ResetTXT">Reset Game</string>
+    <string name="CreatorName">Project made by Saif :)</string>
+    <string name="CreatorSocial">GitHub/LinkedIn @seffhunnn</string>
+</resources>
